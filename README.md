@@ -1,4 +1,4 @@
-# net_api
+# net_scrapper
 
 An application for downloading text and images from the website.
     
